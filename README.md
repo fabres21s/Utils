@@ -1,2 +1,2 @@
-# utils
+# utilities
 Clases de utilidad general
